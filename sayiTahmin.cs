@@ -1,4 +1,4 @@
-/*
+
 namespace sayitahmin;
 class sayiTahmin
 {
@@ -66,4 +66,3 @@ class sayiTahmin
         }
     }
 }
-*/
