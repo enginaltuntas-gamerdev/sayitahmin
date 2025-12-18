@@ -1,4 +1,4 @@
-
+// Bu projenin kısa hali sayiTahminKisa.cs
 namespace sayitahmin;
 class sayiTahmin
 {
