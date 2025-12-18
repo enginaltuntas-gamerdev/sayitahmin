@@ -14,7 +14,7 @@ class sayiTahminKisa
         string tsayi1=t.ToString();
         Console.WriteLine(tsayi1);
         int s=5;
-        for(int b = 1; b < s; b++)
+        for(int b = 1; b <= s; b++)
         {
             Console.Write($"\n{b}.tahmin..:");
             string girilensayi=Console.ReadLine()??" ";
